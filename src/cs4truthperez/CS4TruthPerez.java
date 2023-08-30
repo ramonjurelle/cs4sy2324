@@ -25,6 +25,11 @@ public class CS4TruthPerez {
         String subject2 = "Social Science";
         String year2 = "4";
         System.out.println("Teacher 2" + "\n" + "Name: " + name2 + "\n" + "Subject: " + subject2 + "\n" +  "Years of Teaching: " + year2 + "\n");
+        
+        String name3 = "Ayaka Tarcelo";
+        String subject3 = "Study Period";
+        String year3 = "0";
+        System.out.println("Teacher 3" + "\n" + "Name: " + name3 + "\n" + "Subject: " + subject3 + "\n" +  "Years of Teaching: " + year3 + "\n");
     }
     
 }
